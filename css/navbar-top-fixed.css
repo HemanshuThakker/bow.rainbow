@@ -1,0 +1,40 @@
+.bdnavbar {
+	background-color: #0D4F8B;#36648B;
+	font-family: "Trebuchet MS";
+	box-shadow: .2px .2px 15px #696969;
+	min-height: 80px;
+	/*border-bottom: 2px solid #36648B;*/
+}
+.padd{
+	padding-left: 12px;
+	padding-right: 12px;
+}
+.img {
+	background-image: url(../images/2.jpg);
+	background-position: center;
+	/*background-size: cover;*/
+	/*background-repeat: repeat;*/
+	background-attachment: fixed;
+}
+.navbarlogo{
+	height: 60px;
+	width: 200px;
+}
+.sandwich{
+	padding-top: 35px;
+	padding-bottom: 35px;
+}
+#car {
+	width: 100%;
+	min-height: 600px;
+}
+.alterfluid {
+	padding-left: 0px;
+	padding-right: 0px;
+}
+.sliderimage{
+	width: 100%;
+	height: 600px;
+	background-size: cover;
+	background-position: center;
+}

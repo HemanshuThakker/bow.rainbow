@@ -1,0 +1,146 @@
+/* 
+  ##Device = Desktops
+  ##Screen = 1281px to higher resolution desktops
+*/
+@media (min-width: 1201px) {
+  .homecard0{
+    min-height: 310px;
+  }
+
+}
+
+
+
+
+/* 
+  ##Device = Laptops, Desktops
+  ##Screen = B/w 1025px to 1280px
+*/
+
+
+
+@media (min-width: 992px) and (max-width: 1200px){
+  
+  .homecard0{
+    min-height: 377px;
+  }
+  .homecard0-title{
+    font-size: 22px;
+  }
+  .sliderimage{
+    height: 500px;
+  }
+  .homecard2{
+    min-height: 348px;
+  }
+  
+
+}
+
+
+@media (min-width: 768px) and (max-width: 991px){
+  .homecard0{
+    min-height: 247px;
+  }
+  .sliderimage{
+    height:400px; 
+  }
+  #car{
+    /*height: 380px;*/
+  }
+  .homecard-heading{
+    font-size: 35px;
+  }
+  .homecard2{
+    min-height: 416px;
+  }
+  .sandwich{
+    padding-top: 50px;
+    padding-bottom: 50px;
+  }
+  .sholmes{
+    /*font-size: 18px;*/
+  }
+}
+
+
+@media (min-width: 576px) and (max-width: 767px){
+  .homecard0{
+    min-height: 331px;
+  }
+  .sliderimage{
+    height: 320px;
+  }
+  .homecard-heading{
+    font-size: 30px;
+  }
+  .homecard2{
+    min-height: 239px;
+  }
+  .abouthomeparagraph{
+    font-size: 18px;
+  }
+  .Aboutparagraph{
+    font-size: 18px;
+  }
+  .sandwich{
+    padding-top: 50px;
+    padding-bottom: 50px;
+  }
+}
+
+
+@media (max-width: 575px){
+  .homecard0{
+    min-height: 199px;
+    padding-top: 20px;
+  }
+  .sliderimage{
+    height: 250px;
+  }
+  .homecard-heading{
+    font-size: 23px;
+  }
+  .sandwich{
+    padding-top: 50px;
+    padding-bottom: 50px;
+  }
+  .homecard2{
+    min-height: 290px;
+  }
+  .abouthomeparagraph{
+    font-size: 18px;
+  }
+  .Aboutparagraph{
+    font-size: 18px;
+  }
+  .newform{
+    margin-bottom: 20px;
+    font-size: 16px;
+  }
+  .homecard0:before{
+    top:-33px;
+  }
+}
+
+
+@media (max-width: 480px){
+  .sliderimage{
+    height: 220px;
+  }
+  .sandwich{
+    padding-top: 50px;
+    padding-bottom: 50px;
+  }
+  
+}
+/* 
+  ##Device = Tablets, Ipads (portrait)
+  ##Screen = B/w 768px to 1024px
+*/
+
+/* 
+  ##Device = Tablets, Ipads (landscape)
+  ##Screen = B/w 768px to 1024px
+*/
+
